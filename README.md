@@ -1,4 +1,4 @@
-![logo](https://github.com/Morphinius2332/Hooman/blob/main/hoomantechtalks.jpg)
+![logo](https://github.com/Morphinius2332/Morphinius2332/blob/main/hoomantechtalks.jpg)
 
 <h1 align="center">Hi 👋, I'm Hooman</h1>
 <h3 align="center">A beginner interested in discovering the secrets of the computer world and immersed in the depths of the binary world and programming.</h3>
