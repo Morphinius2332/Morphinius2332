@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morphinius2332&label=Profile%20views&color=0e75b6&style=flat" alt="morphinius2332" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morphinius2332" alt="morphinius2332" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=morphinius2332" alt="morphinius2332" /></a> </p>
 
 <img align="right" alt="hooman" width = "400" src="https://i.pinimg.com/originals/59/21/a6/5921a6a56eb3817bd31189ee14a964e6.gif">
 
